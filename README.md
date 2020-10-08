@@ -1,7 +1,7 @@
 # Python-Fundamental
 My tasks which I solve from the SoftUni and Codewars
 
-08.Data-Types-and-Variables-Exercises
+08.Exercise: Data Types and Variables
 
   01.Integer Operations
 Read four integer numbers. Add first to the second, divide (integer) the sum by the third number and multiply the result by the fourth number. Print the result.
