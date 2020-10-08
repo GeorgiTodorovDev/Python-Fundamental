@@ -1,0 +1,18 @@
+07.Data Types and Variables
+
+  01.Concat Names
+Read two names and a delimiter. Print the names joined by the delimiter.
+
+  02.Centuries to Minutes
+Write a program to enter an integer number of centuries and convert it to years, days, hours and minutes.
+
+  03.Special Numbers
+A number is special when the sum of its digits is 5, 7 or 11.
+Write a program to read an integer n and for all numbers in the range 1…n, print the number and if it is special or not (True / False).
+
+  04.Convert Meters to Kilometers
+You will be given an integer that will be distance in meters. Write a program that converts meters to kilometers formatted to the second decimal point.
+
+  05.Pounds to Dollars
+Write a program that converts British pounds to US dollars formatted to the 3th decimal point.
+1 British Pound = 1.31 Dollars
