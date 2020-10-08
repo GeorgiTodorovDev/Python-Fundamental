@@ -83,3 +83,6 @@ The input will consist of exactly 2 lines:
     • days – integer in range [1…100]
 Output
 At the end print the total cost and the total gained spirit in the following format:
+
+    • "Total cost: {budget}"
+    • "Total spirit: {totalSpirit}"
