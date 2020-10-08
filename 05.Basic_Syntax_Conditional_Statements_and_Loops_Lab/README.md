@@ -1,0 +1,24 @@
+05.Basic_Syntax_Conditional_Statements_and_Loops_Lab
+
+  01.Biggest of Three Numbers
+Write a program that receives three whole numbers and print the biggest one
+
+  02.Number Definer
+Write a program that reads a floating-point number and prints "zero" if the number is zero. Otherwise, print "positive" or "negative". 
+Add "small" if the absolute value of the number is less than 1, or "large" if it exceeds 1 000 000.
+
+  03.Word Reverse
+Write a program that receives a single word from the user, reverses it and prints it
+
+  04.Number Between 1 and 100
+Write a program which reads numbers from the console until it receives a number between 1 and 100 inclusive. 
+When the correct number is received, stop reading and print "The number {number} is between 1 and 100"
+
+  05.Patterns
+Write a program to create the following pattern:
+*
+**
+***
+**
+*
+You will receive a number that represents the highest number of stars.
